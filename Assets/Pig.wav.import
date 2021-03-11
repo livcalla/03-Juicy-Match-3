@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Pig.wav-ac576b8e902a6dde3fb620bebd3fd470.sample"
+
+[deps]
+
+source_file="res://Assets/Pig.wav"
+dest_files=[ "res://.import/Pig.wav-ac576b8e902a6dde3fb620bebd3fd470.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
